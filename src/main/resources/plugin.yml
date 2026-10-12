@@ -1,0 +1,5 @@
+name: SmoothPlay
+version: 1.0.0
+main: com.example.smoothplay.SmoothPlay
+api-version: "1.21"
+description: Makes block, crystal and anchor interactions feel instant.

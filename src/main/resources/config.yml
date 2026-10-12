@@ -1,0 +1,7 @@
+instant-crystal-break: true
+crystal-explosion-power: 6.0
+crystal-breaks-blocks: true
+
+# Re-sends the real block state to the player right after they place/interact,
+# which removes "ghost blocks" (block shows client-side but isn't real).
+block-resync: true
